@@ -8,8 +8,10 @@ namespace ChessLogic
     {
         Normal,
         CastleKS,
+        CastleQS,
         CastblePawn,
         EnPassant,
-        PawnPromotion
+        PawnPromotion,
+        DoublePawn
     }
 }
